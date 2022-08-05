@@ -2,6 +2,9 @@
 
 ### Jungil Kong, Jaehyeon Kim, Jaekyoung Bae
 
+### JUST REPRODUCING THEIR MASTERPIECE WITH CHANGING SOME CODES
+
+
 In our [paper](https://arxiv.org/abs/2010.05646), 
 we proposed HiFi-GAN: a GAN-based model capable of generating high fidelity speech efficiently.<br/>
 We provide our implementation and pretrained models as open source in this repository.
